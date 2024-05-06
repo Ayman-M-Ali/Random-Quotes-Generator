@@ -1,6 +1,6 @@
 # Random Quotes Generator
 
-This challenge is a project that I completed from [elzero.courses]([https://www.elzero.courses/]). 
+This challenge is a project that I completed from [elzero.courses](https://www.elzero.courses/). 
 I used the API from file exist to get the quotes.
 
 ## Project Overview
